@@ -1,2 +1,4 @@
 # Bright-TV
 Data Analysis for Bright-TV with an aim to increase viewership and screen time 
+
+The project aims to derive insights from the dataset that we have. The insights that we want to derive are customer focused meaning that we want to know what, how, when do the customers of Bright-TV watch or view, but most importantly the main aim is to provide insights with an aim to increase subcription of Bright-TV. There are four main objectives which are deriving insights, exposing factors influencing consumption, providing recommendations, and initiatives for Bright-TV. Excel, Snowflake, PowerPoint, and Canva are the tools that were used to create the presentation. The time frame of the presentation only focuses on three months from January to March. Bar graph, line graph, and pie charts are used for visualisation.   
